@@ -1,5 +1,5 @@
 // Typing Effect
-const text = ["Web Developer", "BCA Student", "Programmer"];
+const text = ["Aspiring Web Developer", "BCA Student", "Programmer"];
 let i = 0, j = 0;
 
 function type() {
